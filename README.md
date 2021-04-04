@@ -1,6 +1,6 @@
-## Hi there 👋 Welcome to my profile! 💻
+#  Hi there 👋 Welcome to my profile! 💻
 
-> #### **My name is Pedro.** I have experience with Arduino, C++, PLC ladder, and i am currently learning Python.
+> ## **My name is Pedro.** I have experience with Arduino, C++, PLC ladder, and i am currently learning Python.
 
 I study Electrical Engineering, at Inatel, and i am currently in the first semester of the degree. 
 
