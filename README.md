@@ -4,7 +4,7 @@
 
 I study Electrical Engineering, at Inatel, and i am currently in the first semester of the degree. 
 
-I started my GitHub account to organize the projects i will be working on during my college time. Also, i will be sharing the solutions of some URI online judge problems - platform that my university uses to give us sample exercises in C++.
+I started my GitHub account to organize the projects i will be working on during my college time. Also, i will be sharing the solutions of some URI online judge problems, and, soon, developing my first university project in Arduino.
 
 
 <!--
