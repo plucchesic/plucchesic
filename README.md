@@ -1,7 +1,17 @@
-### Hi there 👋
+## Hi there 👋 Welcome to my profile! 💻
+
+> #### **My name is Pedro.** I have experience with Arduino, C++, PLC ladder, and i am currently learning Python.
+
+I study Electrical Engineering, at Inatel, and i am currently in the first semester of the degree. 
+
+I started my GitHub account to organize the projects i will be working on during my college time. Also, i will be sharing the solutions of some URI online judge problems - platform that my university uses to give us sample exercises in C++.
+
 
 <!--
 **pombozera/pombozera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+I have 
 
 Here are some ideas to get you started:
 
