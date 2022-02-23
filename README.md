@@ -2,7 +2,7 @@
 
 > ## **My name is Pedro.** I have experience with Arduino, C++, PLC ladder, and i am currently learning Python.
 
-I study Electrical Engineering, at Inatel, and i am currently in the second semester of the degree. 
+I study Electrical Engineering, at Inatel, and i am currently in the third semester of the degree. 
 
 I started my GitHub account to organize the projects i will be working on during my college time. Also, i will be sharing the solutions of some URI online judge problems, and, soon, developing my first university project.
 
